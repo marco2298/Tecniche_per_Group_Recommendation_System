@@ -16,5 +16,5 @@ Le strategie prese in esame sono:
 # Dataset
 Per il progetto ho utilizzato il dataSet da 100k di Movielens: https://grouplens.org/datasets/movielens/latest/
 
-Install Projct
-" git clone https://github.com/marco2298/Tirocinio01/edit/main/README.md ." and then i have used google colab for run the project.
+# Install Projct
+" git clone https://github.com/marco2298/Tecniche_per_Group_Recommendation_System/edit/main/README.md ." and then i have used google colab for run the project.
