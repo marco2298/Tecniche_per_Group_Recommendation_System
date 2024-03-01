@@ -31,5 +31,5 @@ Per valutare quale lista di film abbia prodotto il risultato migliore è stato e
 Per il progetto ho utilizzato il dataSet da 100k di Movielens: https://grouplens.org/datasets/movielens/latest/
 
 # Install Projct
-git clone https://github.com/marco2298/Tecniche_per_Group_Recommendation_System/edit/main/README.md . Ho utilizzato google colab per eseguire il codice.
+git clone https://github.com/marco2298/Tecniche_per_Group_Recommendation_System . Ho utilizzato google colab per eseguire il codice.
 
