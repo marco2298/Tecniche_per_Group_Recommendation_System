@@ -1,4 +1,4 @@
-# Strategie per Group Recommendation System
+# Tecniche per Group Recommendation System
 Ho applicato diverse strategie per determinare raccomandazioni di gruppo in ambito cinematografico, è stato coinvolto un gruppo di 5 persone. Ho eseguito un confronto tra i risultati ottenuti utilizzando sia il dataset normalizzato che quello non normalizzato.
 Le strategie prese in esame sono:
 
